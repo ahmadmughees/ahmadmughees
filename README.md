@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 
 <a href="https://github.com/mugheesahmad">
