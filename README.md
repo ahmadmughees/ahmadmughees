@@ -1,7 +1,7 @@
 ### 👋
 
 
-<a href="https://github.com/mugheesahmad">
+<a href="https://github.com/ahmadmughees">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahmadmughees&theme=algolia&show_icons=true&include_all_commits=true" />
 </a>
 
