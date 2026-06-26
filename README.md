@@ -1,8 +1,8 @@
 ### 
 
-# Hi, I'm Mughees Ahmad 👋
+# HelloWorld to my FooBar! 👋
 
-**Senior Machine Learning Engineer at ARB Labs Inc., building computer vision systems for real-world applications.**
+I'm a Senior Machine Learning Engineer at [ARB Labs Inc.](https://arblabs.com/), building computer vision systems for real-world applications. Previously, I worked at [i-5O](https://i-5o.ai/), leading multiple projects for manufacturing systems. 
 
 I develop and deploy computer vision solutions for industrial automation, manufacturing analytics, and real-time video understanding. My expertise includes object detection, image segmentation, action recognition, edge AI, and cloud-native machine learning systems.
 
@@ -12,7 +12,7 @@ I develop and deploy computer vision solutions for industrial automation, manufa
 - 5+ years of industry and research experience
 - Author of 10+ peer-reviewed publications
 
-### Tech Stack]
+### Tech Stack
 **Python • PyTorch • TensorFlow • OpenCV • YOLO • AWS • Docker • MLOps**
 
 
